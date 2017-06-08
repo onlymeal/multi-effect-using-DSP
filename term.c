@@ -25,8 +25,8 @@ short noise=0, frequency=1, echo=0, stereo=0, gain=1, delay=1, am=0, wavegen=0;
 
 interrupt void c_int11()
 {
-	//노이즈 생성
-	short prnseq;
+	//노이즈 생성!
+	short prnseq; 
 	if(noise!=0){
 		if(sreg.bt.b0)
 			prnseq = -8000;
