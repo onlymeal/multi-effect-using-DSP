@@ -1,2 +1,2 @@
 # multi-effect-using-DSP
-DSP 한글이 안써져요
+DSP 한글을 작성해봅시다
