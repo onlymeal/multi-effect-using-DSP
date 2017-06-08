@@ -1,2 +1,3 @@
 # multi-effect-using-DSP
-DSP ÇÑ±ÛÀ» ÀÛ¼ºÇØº¾½Ã´Ù
+DSP
+í•œê¸€
