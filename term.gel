@@ -1,0 +1,37 @@
+menuitem "Multieffect by DSP"
+
+slider Noise(0, 10, 1, 1, noise_parameter)
+{
+	noise=noise_parameter;
+}
+
+slider Frequency(1, 10, 1, 1, frequency_parameter)
+{
+	frequency=frequency_parameter;
+}
+slider Echo(0, 8, 1, 1, echo_parameter)
+{
+	echo=echo_parameter;
+}
+slider Stereo(0, 2, 1, 1, stereo_parameter)
+{
+	stereo=stereo_parameter;
+}
+slider Gain(1, 8, 1, 1, gain_parameter)
+{
+	gain=gain_parameter;
+}
+slider Delay(1, 5, 1, 1, delay_parameter)
+{
+	delay=delay_parameter;
+}
+
+slider Am(0,1,1,1,am_parameter)
+{
+	am=am_parameter;
+}
+
+slider Wave_Gen(0,1,1,1,wavegen_parameter)
+{
+	wavegen=wavegen_parameter;
+}
